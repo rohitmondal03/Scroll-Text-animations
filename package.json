@@ -10,6 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.9.6"
+    "@studio-freight/lenis": "^1.0.19",
+    "astro": "^2.9.6",
+    "gsap": "^3.12.2",
+    "lenis": "^0.0.2",
+    "scss": "^0.2.4",
+    "split-type": "^0.3.3"
   }
 }
